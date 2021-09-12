@@ -66596,7 +66596,7 @@ I:function(a,b){var s,r,q=null,p=L.k9(" - Introduction"),o=p.ge4()
 p.cA$=C.oQ
 o.f=3
 o=o.m7(o,0.875).c2()
-p=L.k9("Python,C,SQL,Java Programmer,Backend developer.Beginner in flutter,firebase,dart & web.B.E. Computer Science Engineering Student in St.Joseph's Institute of Technology.Interested in working on new projects and coding langages.")
+p=L.k9("Python,C,SQL,Java Programmer,Backend developer.Beginner in flutter,firebase,dart & web.B.E. Computer Science Engineering Student in St.Joseph's Institute of Technology.Interested in working on new projects and coding languages.")
 s=p.ge4()
 p.cA$=C.j
 s=s.m7(s,1.875)
